@@ -1,2 +1,2 @@
 # hello-word
-foolowind the tuto.
+followind the tuto.
